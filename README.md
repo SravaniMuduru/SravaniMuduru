@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack  
 
-💻 Languages
+### 💻 Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/> Java
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> Javascript
@@ -25,13 +25,13 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> CSS
 
-⚙️ Frameworks & Tools
+### ⚙️ Frameworks & Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/> React
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/> Node.js
 
-🗄️ Databases
+### 🗄️ Databases
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> MySQL
 
@@ -39,7 +39,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/> Oracle
 
-🔧 Other Tools
+### 🔧 Other Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/> Git
 
@@ -47,19 +47,18 @@
 
 ---
 
-🌟 Featured Projects
+## 🌟 Featured Projects
 - 🌐 **[Personal Portfolio](https://github.com/SravaniMuduru/Sravani-Portfolio-Website)** – A personal website built with React.js to showcase my skills and projects  
 - 🍲 **[Recipe App](https://github.com/SravaniMuduru/Recipe-App)** – A simple recipe search and display app using HTML, CSS, and JavaScript  
 - 🌍 **[Country Guide App](https://github.com/SravaniMuduru/Countryguide-app)** – Provides country information using HTML, CSS, and JavaScript  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SravaniMuduru&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SravaniMuduru&theme=radical&hide_border=true" height="170"/>
-</p>
+![Sravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SravaniMuduru&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SravaniMuduru&theme=radical)
 
 ---
 
