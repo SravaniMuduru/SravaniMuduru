@@ -59,6 +59,7 @@
 
 
 📧 Email: sravanimuduru207@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/sravani-muduru-596a712aa
+💼 LinkedIn: [linkedin.com/in/sravani-muduru](https://linkedin.com/in/sravani-muduru-596a712aa)
+
 ---
 ✨ _“Code. Learn. Build. Repeat.”_ ✨
