@@ -18,8 +18,7 @@
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -36,7 +35,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ---
 
@@ -44,7 +42,6 @@
 - 🌐 **[Personal Portfolio](https://github.com/SravaniMuduru/Sravani-Portfolio-Website)** – A personal website built with React.js to showcase my skills and projects  
 - 🍲 **[Recipe App](https://github.com/SravaniMuduru/Recipe-App)** – A simple recipe search and display app using HTML, CSS, and JavaScript  
 - 🌍 **[Country Guide App](https://github.com/SravaniMuduru/Countryguide-app)** – Provides country information using HTML, CSS, and JavaScript  
-- 🚑 **[Hospital Management System](https://github.com/SravaniMuduru/Hospital-Management-System)** – Oracle SQL based system to manage hospital operations
 
 ---
 
