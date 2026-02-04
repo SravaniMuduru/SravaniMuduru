@@ -13,19 +13,18 @@
 - 📈 Goal: To become a **skilled Full Stack Developer**  
 
 ---
-
-## 🛠️ Tech Stack  
+ 
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 - Java
 - JavaScript
 - HTML
 - CSS
 - SQL
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Tools
 - React.js
 - Node.js
 - Git
@@ -33,7 +32,7 @@
 - VS Code
 - Maven
 
-### Databases
+### 🗄️ Databases
 - MySQL
 - MongoDB
 - Oracle
