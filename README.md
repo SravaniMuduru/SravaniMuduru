@@ -16,34 +16,28 @@
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/> Java
+## 🛠️ Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/> Javascript
+### Languages
+- Java
+- JavaScript
+- HTML
+- CSS
+- SQL
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/> HTML
+### Frameworks & Tools
+- React.js
+- Node.js
+- Git
+- GitHub
+- VS Code
+- Maven
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> CSS
+### Databases
+- MySQL
+- MongoDB
+- Oracle
 
-### ⚙️ Frameworks & Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/> React
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/> Node.js
-
-### 🗄️ Databases
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> MySQL
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/> Mongodb
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35"/> Oracle
-
-### 🔧 Other Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/> Git
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/> VS Code
 
 ---
 
