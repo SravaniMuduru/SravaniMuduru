@@ -49,9 +49,10 @@
 
 ## 📊 GitHub Stats 
 
-![Sravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SravaniMuduru&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SravaniMuduru&show_icons=true&theme=radical&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SravaniMuduru&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SravaniMuduru&theme=radical&cache_seconds=86400)
+
 
 ---
 
