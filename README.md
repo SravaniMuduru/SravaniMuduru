@@ -37,6 +37,16 @@
 - MongoDB
 - Oracle
 
+---
+
+### GitHub Stats
+![Sravani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SravaniMuduru&show_icons=true&theme=dracula)
+
+### GitHub Streak
+![Sravani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SravaniMuduru&theme=dark)
+
+### Contributions
+![GitHub Contributions](https://ghchart.rshah.org/SravaniMuduru)
 
 ---
 
