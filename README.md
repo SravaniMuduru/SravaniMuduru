@@ -46,14 +46,7 @@
 - 🌍 **[Country Guide App](https://github.com/SravaniMuduru/Countryguide-app)** – Provides country information using HTML, CSS, and JavaScript  
 
 ---
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SravaniMuduru&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SravaniMuduru&theme=radical" />
-
-
----
 
 ## 📬 Connect With Me  
 
